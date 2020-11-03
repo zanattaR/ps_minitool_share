@@ -1,0 +1,7 @@
+streamlit==0.60.0
+nltk==3.4.5
+~umpy==1.16.5
+~andas==1.1.0
+numpy==1.19.4
+pandas==1.1.4
+Pillow==8.0.1
