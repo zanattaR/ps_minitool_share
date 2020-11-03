@@ -1,7 +1,8 @@
 streamlit==0.60.0
-nltk==3.4.5
-~umpy==1.16.5
-~andas==1.1.0
-numpy==1.19.4
 pandas==1.1.4
+numpy==1.19.4
+XlsxWriter==1.2.1
+xlrd==1.2.0
+sklearn==0.0
 Pillow==8.0.1
+nltk==3.4.5
